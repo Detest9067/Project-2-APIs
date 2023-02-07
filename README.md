@@ -1,4 +1,4 @@
-# Project-2-APIs
+# Project-2- Data Pipelines
 
 ## Overview
 For this project I wanted to explore the relationship of causation with correlation. I thought it might be interesting to find two completely unrelated data sets and see if I could try and graphically demonstrate some correlations without cause.
